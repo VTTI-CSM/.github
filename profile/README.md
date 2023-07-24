@@ -1,6 +1,7 @@
 # Virginia Tech Transportation Institute - Center for Sustainable Mobility (VTTI - CSM)
 
-![VTTI-CSM Logo](./assets/logo.png)
+![Picture3](https://github.com/VTTI-CSM/.github/assets/77444744/439c6677-387d-4556-ba65-4b3c5dbfbd61)
+
 
 ## Welcome to the Virginia Tech Transportation Institute - Center for Sustainable Mobility (VTTI-CSM)
 
@@ -21,6 +22,6 @@ Thank you for visiting the Virginia Tech Transportation Institute - Center for S
 
 ---
 
-![VT Logo](./assets/vt_logo.png)
+![Picture3](https://github.com/VTTI-CSM/.github/assets/77444744/439c6677-387d-4556-ba65-4b3c5dbfbd61)
 
 Virginia Tech is an equal opportunity/affirmative action institution. © 2023 Virginia Polytechnic Institute and State University. All rights reserved.
